@@ -1,5 +1,8 @@
 # AI Resources Collection
 
+## What You Need to Know about AI in Your Business and Career
+- [The many fallacies of 'AI won't take your job, but someone using AI will'](https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take)
+
 ## Thought Leaders on YouTube
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
@@ -18,15 +21,49 @@
 - [Responsible AI Toolkit by Microsoft](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
 - ["AI Ethics Guidelines Global Inventory" by Algorithm Watch](https://algorithmwatch.org/en/ai-ethics-guidelines-global-inventory/)
 - ["State of AI Report 2024"](https://www.stateof.ai/) - Annual industry overview of current developments and trends in accessible format
+- ["Visual Introduction to Machine Learning"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Visual Introduction to Machine Learning
+
+
+# Interactive Tools to Try
+- **[Hugging Face Spaces](https://huggingface.co/spaces)**  
+  - Ready-to-use AI demos that require no coding
+
+- **[Neural Network Playground](https://playground.tensorflow.org/)**  
+  - TensorFlow's interactive visualization  
+  - Purpose: Show how neural networks transform inputs through layers
+
+- **["The Illustrated Transformer" by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)**  
+  - Visual explanation of transformer architecture  
+  - Why it's valuable: Makes technical concepts accessible through visualizations
+
 
 ## Videos
 - ["What is AI" (5 min)](https://www.youtube.com/watch?v=2ePf9rue1Ao)
 - ["How GPT models work" by Computerphile](https://www.youtube.com/watch?v=VSFLOx98xyA) - 14 minutes - Technical concepts explained accessibly
 - ["Generative AI Explained" by Google DeepMind](https://www.youtube.com/watch?v=hfIUstzHs9A) - 9 minutes - Concise introduction from leading research lab
+- ["Machine Learning: Crash Course Computer Science"](https://www.youtube.com/watch?v=z-EtmaFJieY) - 12 minutes
+- ["Machine Learning: Living in the Age of AI"](https://www.youtube.com/watch?v=ZJixNvx9BAc) - Industry applications and impact (50 minutes)
+
+- **["But what is a neural network?" by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)**  
+  - Visual explanation of neural networks  
+  - Duration: 19 minutes  
+  - Why it's valuable: Excellent visualizations of core concepts
+
+- **["The Illustrated Stable Diffusion" by Amplify Creative](https://www.youtube.com/watch?v=1CIpzeNxIhU)**  
+  - Visual explanation of diffusion models  
+  - Duration: 9 minutes  
+  - Why it's valuable: Makes complex image generation concepts accessible
+
+- **["A New Way to Look at Networking" by Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)**  
+  - Neural networks explained clearly  
+  - Duration: 60 minutes  
+  - Why it's valuable: Foundational concepts by a leading AI researcher
+
 
 ## Podcast Episodes/Sources
 - [Exploring Large Language Models with ChatGPT](https://twimlai.com/podcast/twimlai/exploring-large-language-models/)
 - [TWIML AI Podcast](https://twimlai.com/)
+- [Machine Learning in Healthcare](https://twimlai.com/podcast/twimlai/ml-innovation-healthcare-suchi-saria/)
 
 ## Case Studies
 
