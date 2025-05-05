@@ -8,6 +8,12 @@
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [StatQuest](https://www.youtube.com/@statquest)
 
+## Prompt Engineering Guides / Examples
+- [OpenAI](https://platform.openai.com/docs/examples)
+- [Anthropic](https://docs.anthropic.com/en/prompt-library/library)
+- [Google](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery?project=ai-ml-deployment-lab)
+- [Planning red teaming for large language models (LLMs) and their applications - Microsoft](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)
+
 ## Research Papers
 - [Understanding data from a responsible AI perspective](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/1803.09010.pdf)
 - [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques (June 2024)](https://arxiv.org/abs/2406.06608)
@@ -16,12 +22,14 @@
 - [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165)
 
 ## Websites/Articles
-- [Prompt Engineering Guide (OpenAI)](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Prompt Engineering Guide (Google)](https://www.kaggle.com/whitepaper-prompt-engineering)
 - [Prompt Library (Anthropic)](https://docs.anthropic.com/en/prompt-library/library)
 - [Responsible AI Toolkit by Microsoft](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
 - ["AI Ethics Guidelines Global Inventory" by Algorithm Watch](https://algorithmwatch.org/en/ai-ethics-guidelines-global-inventory/)
 - ["State of AI Report 2024"](https://www.stateof.ai/) - Annual industry overview of current developments and trends in accessible format
-- ["Visual Introduction to Machine Learning"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Visual Introduction to Machine Learning
+- ["Visual Introduction to Machine Learning (Part 1)"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Visual Introduction to Machine Learning (Part 1)
+- ["Visual Introduction to Machine Learning (Part 2)"](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) - Visual Introduction to Machine Learning (Part 2) - Model Tuning
+
 
 
 # Interactive Tools to Try
@@ -38,13 +46,16 @@
 
 
 ## Videos
+- ["The essential main ideas of neural networks"](https://www.youtube.com/watch?v=CqOfi41LfDw)
+- ["But what is a neural network?"](https://www.youtube.com/watch?v=aircAruvnKk)
+
 - ["What is AI" (5 min)](https://www.youtube.com/watch?v=2ePf9rue1Ao)
 - ["How GPT models work" by Computerphile](https://www.youtube.com/watch?v=VSFLOx98xyA) - 14 minutes - Technical concepts explained accessibly
 - ["Generative AI Explained" by Google DeepMind](https://www.youtube.com/watch?v=hfIUstzHs9A) - 9 minutes - Concise introduction from leading research lab
 - ["Machine Learning: Crash Course Computer Science"](https://www.youtube.com/watch?v=z-EtmaFJieY) - 12 minutes
 - ["Machine Learning: Living in the Age of AI"](https://www.youtube.com/watch?v=ZJixNvx9BAc) - Industry applications and impact (50 minutes)
 
-- **["But what is a neural network?" by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)**  
+- **["But what is a neural network?" by 3Blue1Brown"](https://www.youtube.com/watch?v=aircAruvnKk)**  
   - Visual explanation of neural networks  
   - Duration: 19 minutes  
   - Why it's valuable: Excellent visualizations of core concepts
@@ -58,6 +69,10 @@
   - Neural networks explained clearly  
   - Duration: 60 minutes  
   - Why it's valuable: Foundational concepts by a leading AI researcher
+
+- **["Natural Language Processing In 5 Minutes" by Simplilearn](https://www.youtube.com/watch?v=CMrHM8a3hqw)**
+  - Overview of NLP, explaining what it is and how it’s used in everyday tools like voice assistants and search engines
+
 
 
 ## Podcast Episodes/Sources

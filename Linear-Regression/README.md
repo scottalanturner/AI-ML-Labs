@@ -4,8 +4,10 @@ This lab introduces you to linear regression using Python and real-world data. Y
 
 ## Prerequisites
 - A Google account (to use Google Colab)
-- Basic Python knowledge
-- Basic understanding of data science concepts
+- Basic Python knowledge (helpful)
+- Basic understanding of data science concepts (helpful)
+
+** You will not be required to write Python code. You will need to execute the provided Python code, as instructed
 
 ## Setup Instructions
 
