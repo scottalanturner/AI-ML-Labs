@@ -1,5 +1,9 @@
 # AI Resources Collection
 
+## Where to get real-world experience
+- [Omdena - Work on projects that tackle Real-world problems
+Through Artificial Intelligence.](https://www.omdena.com/projects)
+
 ## What You Need to Know about AI in Your Business and Career
 - [The many fallacies of 'AI won't take your job, but someone using AI will'](https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take)
 
