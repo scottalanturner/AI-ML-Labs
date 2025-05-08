@@ -102,10 +102,4 @@ AI-ML-Prompt-Engineering-Lab/
 
 ## Grading
 
-| Category | Points | Criteria |
-|----------|--------|----------|
-| Company Selection | 10 | Company is relevant to student's field and sourced from Indeed.com. |
-| GitHub Setup | 15 | Repo is well-organized, includes all required files, and has a clear README. |
-| Prompt Iterations | 30 | Required prompt versions (including field-specific interview context) documented. |
-| LLM Comparison | 20 | Clear comparison of two LLMs across iterations in Google Doc. |
-| SWOT Analysis Quality | 25 | Final PDF is polished, accurate, and reflects field-specific interview insights. |
+Rubric is available in the assignment (Blackboard or Canvas)
