@@ -1,0 +1,75 @@
+# Databricks notebook source
+# COMMAND ----------
+# # Welcome to the Iris Model Lab!
+# This notebook lets you explore a machine learning model that predicts the type of iris flower (setosa, versicolor, or virginica) based on measurements of its petals and sepals. You'll run the model, make predictions, and share your results, learning about machine learning operations (MLOps) in the process.
+# 
+# **Objectives**:
+# - Run a pre-trained model in Databricks.
+# - Make predictions by changing input values.
+# - Share your notebook to simulate deploying a model.
+# - Record observations about the process.
+# 
+# **Instructions**:
+# 1. Ensure you have an active cluster (create one in Databricks if needed).
+# 2. Run each cell below by clicking the "Run" button (play icon) or "Run All".
+# 3. Follow the steps and modify inputs as instructed.
+# 4. Write down your observations as you go (use a notebook or document).
+# 5. Share your results using the "Share" button at the top.
+# 
+# **Note**: This lab uses a pre-trained model file (`iris_model.pkl`) hosted on GitHub. If you encounter errors loading the model, contact your instructor.
+
+# COMMAND ----------
+# ## Step 1: Load the Pre-Trained Model
+# This cell downloads and loads a pre-trained machine learning model that predicts iris flower types. The model uses four inputs: petal length, petal width, sepal length, and sepal width (all in centimeters).
+
+import joblib
+import requests
+from io import BytesIO
+
+try:
+    # Raw GitHub URL for the pre-trained model
+    model_url = "https://raw.githubusercontent.com/scottalanturner/AI-ML-Labs/main/ML%20Ops/iris_model.pkl"
+    response = requests.get(model_url, timeout=10)
+    response.raise_for_status()  # Check for download errors
+    model = joblib.load(BytesIO(response.content))
+    print("Model loaded successfully!")
+except Exception as e:
+    print(f"Error loading model: {e}")
+    print("Please contact your instructor for assistance.")
+
+# COMMAND ----------
+# ## Step 2: Make a Prediction
+# This cell uses the model to predict the flower type based on input measurements. Try running it, then change the values in `inputs` and re-run to see different predictions.
+
+# Input measurements: [petal length, petal width, sepal length, sepal width]
+inputs = [5.0, 1.5, 6.0, 3.0]
+
+# Make prediction
+try:
+    prediction = model.predict([inputs])[0]
+    flower_types = ['setosa', 'versicolor', 'virginica']
+    print(f"Input measurements: {inputs}")
+    print(f"Predicted flower: {flower_types[prediction]}")
+except NameError:
+    print("Model not loaded. Please fix the error in Step 1 and try again.")
+
+# **Task**: Change the values in `inputs` (e.g., try [6.0, 1.8, 5.5, 3.2]) and re-run this cell. Write down two sets of inputs and their predictions.
+
+# COMMAND ----------
+# ## Step 3: Share Your Results
+# To simulate deploying your model, share this notebook with others:
+# 1. Click the "Share" button at the top of the notebook.
+# 2. Generate a view-only link.
+# 3. Open the link in a new browser tab to see how others would view your predictions.
+# 
+# **Task**: Write down whether the sharing process was easy or hard. How might someone (e.g., a classmate or boss) use your predictions?
+
+# COMMAND ----------
+# ## Step 4: Record Your Observations
+# In your lab submission, include:
+# - Your impression of the Databricks interface (easy, confusing, etc.).
+# - Two prediction examples (inputs and outputs).
+# - Notes on the sharing process and its connection to MLOps.
+# - A short reflection (2–3 sentences): What did you learn about using a model in Databricks? How does this relate to MLOps (e.g., making models accessible)?
+# 
+# Save your observations in a document or notebook to submit.
