@@ -12,6 +12,25 @@ Through Artificial Intelligence.](https://www.omdena.com/projects)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [StatQuest](https://www.youtube.com/@statquest)
 
+## X
+- [OpenAI](https://x.com/OpenAI)
+- [Andrew Ng](https://x.com/AndrewYNg)
+- [Hugging Face](https://x.com/huggingface)
+- [Grok](https://x.com/grok)
+- [Cursor](https://x.com/cursor_ai)
+- [Greg Isenberg](https://x.com/gregisenberg)
+- [Cohere Labs](https://x.com/Cohere_Labs)
+- [Decision Leader](https://x.com/decisionleader)
+- [Anthropic](https://x.com/AnthropicAI)
+- [Rowan Cheung](http://x.com/rowancheung)
+
+## Newsletters
+- [The Rundown](https://www.therundown.ai/)
+- [Neuron](https://theneuron.ai)
+- [Superhuman](https://www.superhuman.ai/)
+- [AI Deep Learning](https://deeplearning.ai)
+
+
 ## Prompt Engineering Guides / Examples
 - [OpenAI](https://platform.openai.com/docs/examples)
 - [Anthropic](https://docs.anthropic.com/en/prompt-library/library)
