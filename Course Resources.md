@@ -96,6 +96,7 @@ Through Artificial Intelligence.](https://www.omdena.com/projects)
 - **["Natural Language Processing In 5 Minutes" by Simplilearn](https://www.youtube.com/watch?v=CMrHM8a3hqw)**
   - Overview of NLP, explaining what it is and how it’s used in everyday tools like voice assistants and search engines
 
+- **["MLOps Zoomcamp"](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
 
 
 ## Podcast Episodes/Sources
