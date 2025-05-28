@@ -45,6 +45,9 @@ This lab is going to introduce some new concepts that have not been covered in t
 ### Lab Files
 
 - `MLOps on Databricks.ipynb`: The main Jupyter notebook containing all lab instructions, code, and MLOps workflows
+- You will upload this notebook to Databricks to do the lab.
+- Once you upload the notebook, you can run all the cells. It will take several minutes to run, because it has to provision server resources.
+- *Note, the notebook cells output a lot of extra info about the build process and running. Sift through it.
 - Wine quality dataset (accessed through Databricks datasets)
 
 ## Lab Structure
