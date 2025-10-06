@@ -9,17 +9,14 @@ This lab introduces you to linear regression using Python and real-world data. Y
 
 ** You will not be required to write Python code. You will need to execute the provided Python code, as instructed
 
-## Setup Instructions
+## Open the Lab in Colab
 
-1. **Access the Repository**
-   - Go to the provided Git repository URL
-   - Download the `notebook.ipynb` file from the `Linear-Regression` directory
+Click below to launch the notebook directly in Google Colab:
 
-2. **Open Google Colab**
-   - Visit [Google Colab](https://colab.research.google.com)
-   - Sign in with your Google account
-   - Click `File` → `Upload notebook`
-   - Upload the `notebook.ipynb` file you downloaded
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Linear-Regression/notebook.ipynb)
+
+If the badge does not open, use this link:
+https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Linear-Regression/notebook.ipynb
 
 ## Understanding Jupyter Notebooks
 
