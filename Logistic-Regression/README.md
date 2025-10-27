@@ -1,4 +1,5 @@
 # Data Breach Logistic Regression Lab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Logistic-Regression/notebook.ipynb)
 
 ## Overview
 
@@ -7,6 +8,8 @@ This lab introduces fundamental machine learning concepts through logistic regre
 ## Getting Started
 
 You will run this lab out of Google Colab, just like the demo lab on Linear Regression. Follow those instructions to load the notebook in Colab.
+
+Open directly in Colab: [Open in Colab](https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Logistic-Regression/notebook.ipynb)
 
 ### Prerequisites
 
