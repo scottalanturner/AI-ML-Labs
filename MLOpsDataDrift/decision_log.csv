@@ -1,0 +1,12 @@
+decision_id,dept_view,top_changes,threshold,action
+a38c8c61,Ops,voice_clone_similarity:7.68;helpdesk_reset_calls:5.63;ai_likeness_score:2.94,1.0,Lower alert threshold for Finance only
+575447b2,Ops,voice_clone_similarity:7.68;helpdesk_reset_calls:5.63;ai_likeness_score:2.94,1.0,Retrain on last 7 days
+48c781f4,Ops,voice_clone_similarity:7.68;helpdesk_reset_calls:5.63;ai_likeness_score:2.94,1.0,Do nothing (monitor only)
+00538e47,All,voice_clone_similarity:6.18;mfa_denied_ratio:2.73;helpdesk_reset_calls:2.56,1.0,Retrain on last 7 days
+c2824123,All,voice_clone_similarity:6.18;mfa_denied_ratio:2.73;helpdesk_reset_calls:2.56,1.0,Add rule: block image-only + unknown domain + QR
+564d312b,Sales,voice_clone_similarity:5.68;helpdesk_reset_calls:2.73;new_tld_ratio_zip_mov:2.63,0.8,Lower alert threshold for Finance only
+076ae314,Sales,voice_clone_similarity:5.68;helpdesk_reset_calls:2.73;new_tld_ratio_zip_mov:2.63,0.8,Do nothing (monitor only)
+b3403c3c,HR,voice_clone_similarity:9.17;helpdesk_reset_calls:3.27;mfa_push_events:3.22,2.4,Retrain on last 7 days
+c22944b1,HR,voice_clone_similarity:9.17;helpdesk_reset_calls:3.27;mfa_push_events:3.22,2.4,Add rule: block image-only + unknown domain + QR
+e46747f9,HR,voice_clone_similarity:9.17;helpdesk_reset_calls:3.27;mfa_push_events:3.22,2.4,Lower alert threshold for Finance only
+4c7206ed,HR,voice_clone_similarity:9.17;helpdesk_reset_calls:3.27;mfa_push_events:3.22,2.4,Do nothing (monitor only)
