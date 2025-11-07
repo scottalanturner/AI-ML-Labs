@@ -36,9 +36,7 @@ The notebook contains **three interactive experiments**:
 ## Why Use Google Colab?
 
 ### 🚀 **Open in Google Colab** 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Labs/Module%209%20Deep%20Learning/Neural_Network_Playground.ipynb)
-
-*(Note: Replace `YOUR_USERNAME/YOUR_REPO` with your actual GitHub repository path)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sturner/AI-ML-Labs/blob/main/Labs/Module%209%20Deep%20Learning/Neural_Network_Playground.ipynb)
 
 ### Benefits of Using Colab
 
