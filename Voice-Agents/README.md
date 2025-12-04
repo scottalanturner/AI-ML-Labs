@@ -111,13 +111,20 @@ Think of branches as different conversation flows. For example:
 
 ## Deliverable
 
-Submit a screenshot of your agent's workflow that shows your conversation branches/flow design. The screenshot should clearly show at least 3 distinct conversation branches in your agent's workflow interface.
+1. **Screenshot of Agent Workflow**: Submit a screenshot of your agent's workflow that shows your conversation branches/flow design. The screenshot should clearly show at least 3 distinct conversation branches in your agent's workflow interface.
+
+2. **GitHub Repository Submission**:
+   - Create a new project folder in your GitHub repository called `voice-agents`
+   - Add a `README.md` file to this folder that includes:
+     - A screenshot of your agent (from the ElevenLabs interface showing your agent)
+     - Your answers to all three reflection questions listed below
+   - The README should be well-formatted and clearly present your work and reflections
 
 ---
 
 ---
 
-## Reflection Questions (Optional)
+## Reflection Questions
 
 Consider these questions as you work through the lab:
 
@@ -132,6 +139,5 @@ Consider these questions as you work through the lab:
 ### The Bottom Line
 You just built a working voice agent that can have conversations, access knowledge, and guide users through different conversation paths. This is the same technology powering customer service bots, virtual assistants, and interactive phone systems. Voice agents are becoming essential tools for businesses to provide 24/7 support and information access - and you built one in under an hour.
 
-### Final Reflection
-What surprised you most about how the voice agent handled conversations? Would you use a voice agent like this in your daily life, and if so, for what purpose?
+
 
