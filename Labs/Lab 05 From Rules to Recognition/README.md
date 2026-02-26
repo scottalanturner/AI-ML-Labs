@@ -4,7 +4,7 @@
 
 ## Part 1: Understanding Decision Trees (30 minutes)
 
-**Activity:** Work through http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+**Activity:** Work through A Visual Introduction to Machine Learning: https://narrative-flow.github.io/exploratory-study-2/
 
 ### Section A: Initial Exploration (10 min)
 
