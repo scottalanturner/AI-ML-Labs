@@ -13,10 +13,14 @@ This lab introduces you to linear regression using Python and real-world data. Y
 
 Click below to launch the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Linear-Regression/notebook.ipynb)
+<a href="https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Labs/Lab%2006%20Linear%20Regression/notebook.ipynb" target="_blank" rel="noopener noreferrer">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+</a>
 
 If the badge does not open, use this link:
-https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Linear-Regression/notebook.ipynb
+<a href="https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Labs/Lab%2006%20Linear%20Regression/notebook.ipynb" target="_blank" rel="noopener noreferrer">
+  https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Labs/Lab%2006%20Linear%20Regression/notebook.ipynb
+</a>
 
 ## Understanding Jupyter Notebooks
 
