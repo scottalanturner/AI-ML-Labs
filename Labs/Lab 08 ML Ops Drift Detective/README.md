@@ -6,7 +6,7 @@ Interactive, no‑code lab to learn how to spot and respond to data drift in an 
 - View on GitHub: [Drift_Detective_AURORA_QR_2025.ipynb](Drift_Detective_AURORA_QR_2025.ipynb)
 - Open directly in Google Colab:
   
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/MLOpsDataDrift/Drift_Detective_AURORA_QR_2025.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scottalanturner/AI-ML-Labs/blob/main/Labs/Lab%2008%20ML%20Ops%20Drift%20Detective/Drift_Detective_AURORA_QR_2025.ipynb)
 
 ## What you’ll do
 1. Run all cells and use the drift threshold slider and department filter.
