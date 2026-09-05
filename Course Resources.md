@@ -25,6 +25,7 @@ Through Artificial Intelligence.](https://www.omdena.com/projects)
 - [Rowan Cheung](http://x.com/rowancheung)
 
 ## Newsletters
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now
 - [The Rundown](https://www.therundown.ai/)
 - [Neuron](https://theneuron.ai)
 - [Superhuman](https://www.superhuman.ai/)
